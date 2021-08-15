@@ -95,7 +95,7 @@ background-color:#00ff55;
 @media only screen and (max-width:500px) {
     textarea {
         width: 80%;
-        border: 1px solid;
+        
     }
 
     button {
