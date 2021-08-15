@@ -101,6 +101,7 @@ background-color:#00ff55;
     button {
     width: 24px;
     height: 28px;
+    margin: 1px;
     font-size: 14px;
     }
 
@@ -114,8 +115,8 @@ background-color:#00ff55;
     }
 
     #enter {
-        width: 50px;
-        font-size: 14px;
+        width: 30px;
+        font-size: 10px;
         }
 
         #capsLock {
